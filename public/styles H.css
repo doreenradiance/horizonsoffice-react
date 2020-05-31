@@ -1,0 +1,49 @@
+.navbar-home {
+    border: none;
+    background-color: #fff;
+    border-radius: none;
+    margin-bottom: 0; 
+}
+
+.site-logo {
+    height: 60px;
+    width: auto;
+}
+
+.site-logo img {
+    height: 100%;
+    
+}
+
+.flags {
+    display: flex;
+    justify-content: center;
+    margin-left: 40vw;
+
+}
+
+.flags img {
+    margin: 1vw;
+    width: 30px;
+    height: auto;
+}
+
+.Plans{
+    margin-top: 50px;
+}
+
+.down{
+    background-color: blue;
+}
+
+.H{
+    color: darkgoldenrod;
+}
+
+.p1{
+    color: chartreuse;
+}
+
+.p2{
+    color: floralwhite;
+}
